@@ -4,8 +4,7 @@
     Hi There 👋, I'm Ayman Rayan
 </h3>
 <p align="center">
-<img  src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20.Net%20Developer">
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=DF1A1C&center=true&vCenter=true&width=435&lines=Full+Stack+.Net+Developer;Computer+Science+Enthusiasts;Always+Learning+.+.+." alt="Typing SVG" />
 </P>
 
 <!--
