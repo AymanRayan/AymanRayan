@@ -12,7 +12,7 @@
   Languages and Tools
 </h2>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,html,css,bootstrap,js,ts,angular,nodejs,mongodb,git,aws&perline=8" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,html,css,bootstrap,js,ts,angular,nodejs,mongodb,git,aws" />
 </p>
 
 <!--
