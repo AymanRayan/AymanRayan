@@ -7,12 +7,12 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=DF1A1C&center=true&vCenter=true&width=435&lines=Full+Stack+.Net+Developer;Computer+Science+Enthusiastic;Always+Learning+.+.+." alt="Typing SVG" />
 </P>
 
-
+<hr>
 <h2 align="center">
   Languages and Tools
 </h2>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,html,css,bootstrap,js,ts,angular,nodejs,mongodb,git,aws" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,html,css,bootstrap,js,ts,angular,nodejs,mongodb,react,git,aws,azure" />
 </p>
 
 <!--
