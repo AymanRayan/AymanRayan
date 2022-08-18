@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<h3 align="center">
+    Hi There 👋, I'm Ayman Rayan
+</h3>
+<img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20.Net%20Developer">
+
 <!--
 **AymanRayan/AymanRayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
