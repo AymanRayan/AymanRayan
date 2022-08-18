@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <h3 align="center">
     Hi There 👋, I'm Ayman Rayan
@@ -7,7 +7,15 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=DF1A1C&center=true&vCenter=true&width=435&lines=Full+Stack+.Net+Developer;Computer+Science+Enthusiastic;Always+Learning+.+.+." alt="Typing SVG" />
 </P>
 
+- 🌱 I’m currently learning react
+- 💬 Ask me about accessibility, full-stack, Web or anything!
+- 📫 How to reach me:
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aymanrayan/)
+[![](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aymanrayan2941@gmail.com)
+
+- ⚡ Fun fact: I Love turning caffeine into code😄.
 <hr>
+
 <h2 align="center">
   Languages and Tools
 </h2>
